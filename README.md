@@ -40,5 +40,4 @@ To get the morning rain rate, find "point_time morning" class in < span > tag an
 To get the brown smog rate, find "indicator" class in < dl > tag. Find all the < dd > tag in < dl > tag and select the first index. 
 
 # Running the tests
-
-맨위로
+![img1](https://user-images.githubusercontent.com/77823753/108456197-262b0c80-72b3-11eb-967a-feac102ff0ec.PNG)
