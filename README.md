@@ -4,11 +4,11 @@ Scraping the information you need in your daily life with Python
 # Motivation
 To solve the incovenience of daily life by scraping information at once that we have to check on different sites every day
 
-## Installing
+# Installing
 1. pip install requests  
 Connected to the site by using requests module in order to get response from server.   
 
-Following are the sites.  
+##Following are the sites.  
   -
   -
   -
@@ -20,7 +20,7 @@ To find the string (tag element) starting with certain character.
 3. pip install beautifulSoup4
 To get the needed tag element from HTML code.
 
-## Code
+# Code
 Created 4 functions. Following is the explanation of the core code for each function.
 1. def scrape_weather()  
 ~~~
@@ -39,6 +39,6 @@ To get the morning rain rate, find "point_time morning" class in < span > tag an
 ~~~
 To get the brown smog rate, find "indicator" class in < dl > tag. Find all the < dd > tag in < dl > tag and select the first index. 
 
-## Running the tests
+# Running the tests
 
 맨위로
