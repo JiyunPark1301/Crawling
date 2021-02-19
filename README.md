@@ -8,7 +8,7 @@ To solve the incovenience of daily life by scraping information at once that we 
 1. pip install requests  
 Connected to the site by using requests module in order to get response from server.   
 
-##Following are the sites.  
+## Following are the sites.  
   -
   -
   -
